@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "My first Node and Exress Server BMI calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "git repository"
+  },
+  "author": "Vishnuraj Saravanan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
